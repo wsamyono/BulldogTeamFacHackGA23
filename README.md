@@ -7,4 +7,5 @@ Email: wsamyono@jarvis.edu
 Team Mentor: Je'aime Powell.                                
 Email: 
 
+The Course in Canvas:
 https://canvas.instructure.com/courses/7289468
