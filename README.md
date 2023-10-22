@@ -7,8 +7,7 @@ This repository is for Jarvis Bulldog Team of [FacutyHack@Gateways23](https://ha
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                                                                
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                            
 ![image](imgs/widodo.png)
-
- <br>                    
+                  
 **Team Mentor:** Je'aime Powell.                                
 **Email:** [jpowell@tacc.utexas.edu(mailto:jpowell@tacc.utexas.edu)    
 **LinkedIn:** [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/jeaimehp/)
