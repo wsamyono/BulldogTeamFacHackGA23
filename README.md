@@ -1,8 +1,9 @@
 # Jarvis Bulldog's Team FacultyHack@Gateways23
 
-This repository is for Jarvis Bulldog Team of [FacutyHack@Gateways23](https://hackhpc.github.io/facultyhack-gateways23) with [SGX3](https://sciencegateways.org/). 
+This repository is for Jarvis Bulldog Team of [FacultyHack@Gateways23](https://hackhpc.github.io/facultyhack-gateways23) with [SGX3](https://sciencegateways.org/). 
 
-<hr>
+---
+
 **Team Member:** Widodo Samyono, PhD                                             
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                                                                
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                            
@@ -14,7 +15,8 @@ This repository is for Jarvis Bulldog Team of [FacutyHack@Gateways23](https://ha
 
 ![image](imgs/jeaime.png)
 
-<hr>
+---
+
 # Resources
 
 ## Jupyter Notebook Code:
