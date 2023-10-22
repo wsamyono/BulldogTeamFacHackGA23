@@ -5,7 +5,7 @@ This repository is for Jarvis Bulldog Team of [FacultyHack@Gateways23](https://h
 ---
 
 **Team Member:** Widodo Samyono, PhD                                             
-**Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                                                                
+**Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                            
 ![image](imgs/widodo.png)
                   
