@@ -10,6 +10,7 @@ This repository is for Jarvis Bulldog Team of [FacutyHack@Gateways23](https://ha
 **Email:** [jpowell@tacc.utexas.edu(mailto:jpowell@tacc.utexas.edu)    
 
 **LinkedIn:** [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/jeaimehp/)
+
 ![image](imgs/jeaime.png)
 
 ## Jupyter Notebook Code:
@@ -21,4 +22,5 @@ This repository is for Jarvis Bulldog Team of [FacutyHack@Gateways23](https://ha
 
 ## The Course in Canvas:
 [https://canvas.instructure.com/courses/7289468](https://canvas.instructure.com/courses/7289468)
+
 
