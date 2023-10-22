@@ -4,13 +4,13 @@ This repository is for Jarvis Bulldog Team of [FacutyHack@Gateways23](https://ha
 **Team Member:** Widodo Samyono, PhD                                             
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                                                                
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                            
-![image](https://github.com/wsamyono/BulldogTeamFacHackGA23/assets/37428133/c5ee9b87-2aeb-49cd-bd90-9df41c35353d)
+![image](imgs/widodo.png)
                      
 **Team Mentor:** Je'aime Powell.                                
 **Email:** [jpowell@tacc.utexas.edu(mailto:jpowell@tacc.utexas.edu)    
 
 **LinkedIn:** [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/jeaimehp/)
-![image](https://github.com/wsamyono/BulldogTeamFacHackGA23/assets/37428133/b9a36a1e-3864-48bc-becf-d1488b1b0058)
+![image](imgs/jeaime.png)
 
 ## Jupyter Notebook Code:
 [JSEP2022Week4.ipynb](https://raw.githubusercontent.com/wsamyono/BulldogTeamFacHackGA23/main/JSEP2022Week4.ipynb)
