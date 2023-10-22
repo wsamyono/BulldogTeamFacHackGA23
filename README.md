@@ -1,4 +1,5 @@
-# JarvisBulldogTeamFacHackGA23
+# Jarvis Bulldog's Team FacultyHack@Gateways23
+
 This repository is for Jarvis Bulldog Team of [FacutyHack@Gateways23](https://hackhpc.github.io/facultyhack-gateways23) with [SGX3](https://sciencegateways.org/). 
 
 <hr>
