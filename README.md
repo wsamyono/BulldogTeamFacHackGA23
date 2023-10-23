@@ -31,7 +31,7 @@ Needs: 1) accesing and using the Jupiter Notebook for the team and students for 
 ## List of 3-4 Gateway references (include the URL of the Gateway and a brief description)
 *  Welcome to Colaboratory. https://colab.research.google.com/notebooks/intro.ipynb The website instroduces to Google Colab (Colaboratory). What is Colab? Getting started with Colab. Sample Applications. More Resources.  
 *  Overview of Colaboratory Features. https://colab.research.google.com/notebooks/basic_features_overview.ipynb The website explains the Colab features: Cells, Working with Python, and Integration with Drive (Google Drive).
-*  https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004867#sec031 We used this journal as the basis for our course for the computational biology.  
+*  An Introduction to Programming for Bioscientists: A Python-Based Primer, Berk Ekmekci ,Charles E. McAnany ,Cameron Mura. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004867#sec031    We used this journal as the basis for our course for the computational biology.  
 ## List of HPC tools used (include URL of tutorials or training)
 
 ## The revised course syllabus
