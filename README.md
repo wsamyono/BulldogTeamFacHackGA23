@@ -20,6 +20,9 @@ This repository is for Jarvis Bulldog Team of [FacultyHack@Gateways23](https://h
 # Resources
 
 ## Jupyter Notebook Code:
+* JSEP2022Week1.ipynb
+* JSEP2022Week2.ipynb
+* JSEP2022Week3.ipynb
 * [JSEP2022Week4.ipynb](JSEP2022Week4.ipynb)
 
 ## Course Syllabus:
