@@ -20,22 +20,25 @@ This repository is for Jarvis Bulldog Team of [FacultyHack@Gateways23](https://h
 # Resources
 
 ## HPC support / accounts for our course (include URL and a brief description)
-The team TACC Account information:
-Account: wsamyono
-Email: wsamyono@jarvis.edu
-Institution: Jarvis Christian University (jarvis.edu)
+The team TACC Account information:                                                                                                   
+Account: wsamyono. 
+Email: wsamyono@jarvis.edu. 
+Institution: Jarvis Christian University (jarvis.edu).                                                 
 The TACC HPC resources is from the following link: https://portal.tacc.utexas.edu/allocations-overview
+
 Needs: 1) accesing and using the Jupiter Notebook for the team and students for the course in Computational and Mathematical Biology. 2) data storage. 3) other resources: GPU, Jetstream, etc.  
 
 ## List of 3-4 Gateway references (include the URL of the Gateway and a brief description)
- 
+*  Welcome to Colaboratory. https://colab.research.google.com/notebooks/intro.ipynb The website instroduces to Google Colab (Colaboratory). What is Colab? Getting started with Colab. Sample Applications. More Resources.  
+*  Overview of Colaboratory Features. https://colab.research.google.com/notebooks/basic_features_overview.ipynb The website explains the Colab features: Cells, Working with Python, and Integration with Drive (Google Drive).
+*  https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004867#sec031 We used this journal as the basis for our course for the computational biology.  
 ## List of HPC tools used (include URL of tutorials or training)
 
 ## The revised course syllabus
 [Spring2024-MATH3390-CourseSyllabus.pdf](Spring2024-MATH3390-CourseSyllabus.pdf)
 
 ## The next step suggestions from the community mentor
-*
+* 
 
 ## The 2-year Course implementation schedule (Spring 2024 - Fall 2025)
 Spring 2024, Summer 2024, Spring 2025, Summer 2025 
