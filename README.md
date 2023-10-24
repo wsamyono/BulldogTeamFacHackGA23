@@ -35,24 +35,28 @@ Needs: 1) accesing and using the Jupiter Notebook for the team and students for 
 *  Jetstreams Resources: https://docs.jetstream-cloud.org/general/resources/ 
   
 ## List of HPC tools used (include URL of tutorials or training)
+* Scikit-Learn (sklearn) Tutorials: https://scikit-learn.org/stable/tutorial/index.html
+* TACC Training: https://www.tacc.utexas.edu/use-tacc/training/
 
 ## The revised course syllabus
 [Spring2024-MATH3390-CourseSyllabus.pdf](Spring2024-MATH3390-CourseSyllabus.pdf)
 
 ## The next step suggestions from the community mentor
-* 
-
+* The mentor suggested to check DesignSafe: https://www.designsafe-ci.org/user-guide/usecases/generalusecases/
+* Science Gateways Catalog:https://catalog.sciencegateways.org/#/home
+  
 ## The 2-year Course implementation schedule (Spring 2024 - Fall 2025)
 Spring 2024, Summer 2024, Spring 2025, Summer 2025 
 
 ## Team's Poster, which conforms to the template provided
-
+* The link to the team poster:
 
 ## The 2-page blog post (Include specific HPC resources and Gateways usage).
-*
+* The link to the 2-page blog post:  
 
 ## Description of your ongoing needs from SGX3.
-*
+* Resourses and data for compuational and mathematical biology
+* Parallel computing for solving problems in mathematics and biology. 
 
 ## Jupyter Notebook Code:
 * [JSEP2022Week1.ipynb](JSEP2022Week1.ipynb)
