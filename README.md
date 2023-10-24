@@ -49,7 +49,7 @@ Needs: 1) accesing and using the Jupiter Notebook for the team and students for 
 Spring 2024, Summer 2024, Spring 2025, Summer 2025 
 
 ## Team's Poster, which conforms to the template provided
-* The link to the team poster:
+* The link to the team poster: 
 
 ## The 2-page blog post (Include specific HPC resources and Gateways usage).
 * The link to the 2-page blog post:  
