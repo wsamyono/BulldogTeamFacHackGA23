@@ -72,3 +72,12 @@ Spring 2024, Summer 2024, Spring 2025, Summer 2025
 * Summer 2024, June 3, 2024 – June 28, 2024, TACC.
 * Spring 2025, January 6, 2025 – May 2, 2025, TACC.
 * Summer 2025, January 2, 2025 – June 27, 2025, Design Safe.
+
+## Resource Needs/List
+1) Google Colab. The students use it for programming in Python to introduce the students with Python coding without installing Python in their computers. https://colab.research.google.com/                                                                                                                    
+2) Jupyter Notebooks. The students may use TACC and Jetstream 2 Resources for using the Jupyter Notebooks. Texas Advanced Computing Center Jetstream2               
+3) Anaconda Navigator. The students may experience installing Python in their own computers. The link is this: https://docs.anaconda.com/free/navigator/index.html      
+4) Python. The students need to learn this popular language to solve problems in biology. This is the link: https://www.python.org/                                 
+5) SciPy. The students need to learn algorithms in solving biological problems. This is the link: https://scipy.org/                                                
+6) scikit-learn (sklearn). Simple and efficient tools for machine learning. They students may use it in the future. The link is this: https://scikit-learn.org/stable/                                                                                                                                             
+7) GitHub. The students need to collaborate in solving biological problems, so they can use it to share codes. The link to our GitHub repository is this: https://github.com/wsamyono/BulldogTeamFacHackGW23
