@@ -66,3 +66,9 @@ Spring 2024, Summer 2024, Spring 2025, Summer 2025
 
 ## The Targeted Course MATH 3390 Computational and Mathematical Biology in Canvas:
 [https://canvas.instructure.com/courses/7289468](https://canvas.instructure.com/courses/7289468)
+
+## Implementation Schedule
+Spring 2024, January 8, 2024 – May 3, 2024, GitHub, Colab
+Summer 2024, June 3, 2024 – June 28, 2024, TACC.
+Spring 2025, January 6, 2025 – May 2, 2025, TACC.
+Summer 2025, January 2, 2025 – June 27, 2025, Design Safe.
