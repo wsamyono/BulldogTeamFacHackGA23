@@ -10,7 +10,7 @@ This repository is for Jarvis Bulldog Team of [FacultyHack@Gateways23](https://h
 ![image](imgs/widodo.png)
                   
 **Team Mentor:** Je'aime Powell.                                
-**Email:** [jpowell@tacc.utexas.edu(mailto:jpowell@tacc.utexas.edu)    
+**Email:** [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu)    
 **LinkedIn:** [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/jeaimehp/)
 
 ![image](imgs/jeaime.png)
